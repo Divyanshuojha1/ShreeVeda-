@@ -1,0 +1,6 @@
+{
+  "name": "Shree Veda",
+  "description": "Premium luxury organic Indian spices and culinary experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
